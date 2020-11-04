@@ -1,50 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "BLEX - https://blex.me",
+    "url": "https://blex.me",
+    "slug": "blex-https-blex-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 85
+    "time": 1029
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "API - https://api.blex.me",
+    "url": "https://api.blex.me/robots.txt",
+    "slug": "api-https-api-blex-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 159
+    "time": 750
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
+    "name": "STATIC - https://static.blex.me",
+    "url": "http://static.blex.me/robots.txt",
+    "slug": "static-https-static-blex-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 541
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 319
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 52
+    "time": 370
   }
 ]
