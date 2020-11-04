@@ -1,36 +1,29 @@
-# Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: baealex
+repo: upptime
+user-agent: blex-bot
 
-# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: BLEX - https://blex.me
+    url: https://blex.me
+  - name: API - https://api.blex.me
+    url: https://api.blex.me/robots.txt
+  - name: STATIC - https://static.blex.me
+    url: http://static.blex.me/robots.txt
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  cname: status.blex.me
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "**Upptime** for BLEX"
+  introMessage: BLEX의 상태입니다. [Upptime](https://github.com/upptime/upptime)에서 만들고 [GitHub](https://github.com)에서 운영합니다.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - baealex
+
+notifications:
+  - type: discord
