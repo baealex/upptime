@@ -5,7 +5,7 @@
     "slug": "blex-https-blex-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 1037
+    "time": 1038
   },
   {
     "name": "API - https://api.blex.me",
@@ -21,6 +21,6 @@
     "slug": "static-https-static-blex-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 380
+    "time": 379
   }
 ]
