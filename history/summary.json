@@ -3,15 +3,15 @@
     "name": "BLEX - https://blex.me",
     "url": "https://blex.me",
     "slug": "blex-https-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1027
+    "time": 1029
   },
   {
     "name": "API - https://api.blex.me",
     "url": "https://api.blex.me/robots.txt",
     "slug": "api-https-api-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
     "time": 758
   },
@@ -19,8 +19,8 @@
     "name": "STATIC - https://static.blex.me",
     "url": "http://static.blex.me/robots.txt",
     "slug": "static-https-static-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 390
+    "time": 392
   }
 ]
