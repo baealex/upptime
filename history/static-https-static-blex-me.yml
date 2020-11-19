@@ -1,7 +1,7 @@
 - url: http://static.blex.me/robots.txt
-- status: down
+- status: up
 - code: 200
-- responseTime: 421
-- lastUpdated: 2020-11-19T06:50:23.387Z
+- responseTime: 373
+- lastUpdated: 2020-11-19T06:58:29.319Z
 - startTime: 2020-11-04T07:25:50.771Z
 - generator: Upptime <https://github.com/upptime/upptime>
