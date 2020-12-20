@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.81%",
-    "time": 987,
-    "timeDay": 826,
-    "timeWeek": 806,
-    "timeMonth": 965,
-    "timeYear": 987,
+    "time": 983,
+    "timeDay": 783,
+    "timeWeek": 804,
+    "timeMonth": 951,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2020-12-01": 122
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/api.blex.me",
     "slug": "api-https-api-blex-me",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 780,
-    "timeDay": 835,
+    "timeDay": 773,
     "timeWeek": 797,
-    "timeMonth": 790,
+    "timeMonth": 794,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2020-12-01": 122
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 519,
-    "timeWeek": 431,
-    "timeMonth": 414,
-    "timeYear": 407,
+    "time": 406,
+    "timeDay": 401,
+    "timeWeek": 434,
+    "timeMonth": 415,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   }
 ]
