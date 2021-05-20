@@ -4,9 +4,9 @@ user-agent: blex-bot
 
 sites:
   - name: BLEX - https://blex.me
-    url: https://blex.me/robots.txt
+    url: https://blex.me/
   - name: API - https://api.blex.me
-    url: https://api.blex.me/robots.txt
+    url: https://api.blex.me/v1/posts
   - name: STATIC - https://static.blex.me
     url: http://static.blex.me/robots.txt
 
