@@ -4,11 +4,11 @@
     "url": "https://blex.me/",
     "icon": "https://favicons.githubusercontent.com/blex.me",
     "slug": "blex-https-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 868,
     "timeDay": 1502,
@@ -16,7 +16,7 @@
     "timeMonth": 1036,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2021-05-31": 5,
+      "2021-05-31": 2,
       "2021-03-19": 346,
       "2021-03-18": 3,
       "2020-12-01": 122
@@ -27,11 +27,11 @@
     "url": "https://api.blex.me/v1/posts",
     "icon": "https://favicons.githubusercontent.com/api.blex.me",
     "slug": "api-https-api-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 795,
     "timeDay": 1045,
@@ -39,7 +39,7 @@
     "timeMonth": 870,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2021-05-31": 5,
+      "2021-05-31": 2,
       "2020-12-01": 122
     }
   },
@@ -48,11 +48,11 @@
     "url": "http://static.blex.me/robots.txt",
     "icon": "https://favicons.githubusercontent.com/static.blex.me",
     "slug": "static-https-static-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 395,
@@ -60,7 +60,7 @@
     "timeMonth": 383,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2021-05-31": 4
+      "2021-05-31": 0
     }
   }
 ]
