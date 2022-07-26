@@ -6,23 +6,21 @@
     "slug": "blex-https-blex-me",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 996,
-    "timeDay": 1798,
-    "timeWeek": 1360,
-    "timeMonth": 1103,
-    "timeYear": 971,
+    "timeDay": 1817,
+    "timeWeek": 1359,
+    "timeMonth": 1114,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2022-07-25": 10,
       "2022-06-09": 50,
       "2022-04-11": 21,
       "2022-04-10": 621,
       "2021-11-23": 20,
-      "2021-09-11": 39,
-      "2021-07-26": 17
+      "2021-09-11": 39
     }
   },
   {
@@ -37,17 +35,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 818,
-    "timeDay": 756,
-    "timeWeek": 847,
-    "timeMonth": 783,
-    "timeYear": 793,
+    "timeDay": 893,
+    "timeWeek": 844,
+    "timeMonth": 793,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2022-06-09": 50,
       "2022-04-11": 22,
       "2022-04-10": 620,
       "2021-11-23": 20,
-      "2021-09-11": 39,
-      "2021-07-26": 17
+      "2021-09-11": 39
     }
   },
   {
@@ -61,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 709,
-    "timeDay": 695,
-    "timeWeek": 794,
-    "timeMonth": 832,
-    "timeYear": 816,
+    "time": 710,
+    "timeDay": 842,
+    "timeWeek": 792,
+    "timeMonth": 837,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2022-06-09": 50,
       "2022-04-11": 22,
