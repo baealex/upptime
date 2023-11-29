@@ -1,7 +1,7 @@
 url: https://blex.me/newest
-status: up
-code: 200
-responseTime: 1224
-lastUpdated: 2023-11-28T23:03:25.767Z
+status: down
+code: 504
+responseTime: 10764
+lastUpdated: 2023-11-29T04:32:11.108Z
 startTime: 2020-11-04T07:25:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
