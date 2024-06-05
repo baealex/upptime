@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1434,
-    "timeDay": 489,
-    "timeWeek": 516,
-    "timeMonth": 593,
-    "timeYear": 1420,
+    "time": 1433,
+    "timeDay": 605,
+    "timeWeek": 538,
+    "timeMonth": 601,
+    "timeYear": 1418,
     "dailyMinutesDown": {
-      "2024-04-20": 296,
-      "2023-06-06": 17
+      "2024-04-20": 296
     }
   },
   {
@@ -31,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 767,
-    "timeWeek": 689,
-    "timeMonth": 792,
+    "time": 773,
+    "timeDay": 897,
+    "timeWeek": 731,
+    "timeMonth": 802,
     "timeYear": 776,
-    "dailyMinutesDown": {
-      "2023-06-06": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "STATIC - https://static.blex.me",
@@ -51,13 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 1076,
-    "timeWeek": 872,
-    "timeMonth": 976,
-    "timeYear": 914,
-    "dailyMinutesDown": {
-      "2023-06-06": 16
-    }
+    "time": 908,
+    "timeDay": 1070,
+    "timeWeek": 921,
+    "timeMonth": 988,
+    "timeYear": 915,
+    "dailyMinutesDown": {}
   }
 ]
