@@ -42,19 +42,19 @@
     "url": "http://static.blex.me/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/static.blex.me.ico",
     "slug": "static-https-static-blex-me",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 705,
-    "timeWeek": 901,
-    "timeMonth": 956,
-    "timeYear": 939,
+    "time": 926,
+    "timeDay": 907,
+    "timeWeek": 927,
+    "timeMonth": 965,
+    "timeYear": 940,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 16
     }
   }
 ]
