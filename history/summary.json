@@ -4,18 +4,19 @@
     "url": "https://blex.me",
     "icon": "https://icons.duckduckgo.com/ip3/blex.me.ico",
     "slug": "blex-https-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1089,
-    "timeDay": 681,
-    "timeWeek": 710,
-    "timeMonth": 756,
-    "timeYear": 873,
+    "time": 1087,
+    "timeDay": 558,
+    "timeWeek": 676,
+    "timeMonth": 746,
+    "timeYear": 872,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-04-20": 296
     }
   },
@@ -26,9 +27,9 @@
     "slug": "api-https-api-blex-me",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 816,
     "timeDay": 890,
@@ -36,7 +37,7 @@
     "timeMonth": 841,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2025-01-11": 0
+      "2025-01-11": 11
     }
   },
   {
@@ -46,9 +47,9 @@
     "slug": "static-https-static-blex-me",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 958,
     "timeDay": 1069,
@@ -56,7 +57,7 @@
     "timeMonth": 983,
     "timeYear": 977,
     "dailyMinutesDown": {
-      "2025-01-11": 0,
+      "2025-01-11": 11,
       "2024-09-06": 31
     }
   }
