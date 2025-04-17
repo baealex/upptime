@@ -1,7 +1,7 @@
 url: https://api.blex.me/v1/posts/newest
-status: down
-code: 502
-responseTime: 695
-lastUpdated: 2025-04-17T17:29:49.381Z
+status: up
+code: 200
+responseTime: 3131
+lastUpdated: 2025-04-17T17:40:10.106Z
 startTime: 2020-11-04T07:25:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
