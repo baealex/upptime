@@ -6,9 +6,9 @@
     "slug": "blex-https-blex-me",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "94.73%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.93%",
     "time": 1069,
     "timeDay": 13652,
@@ -16,7 +16,7 @@
     "timeMonth": 2962,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2025-04-17": 75,
+      "2025-04-17": 89,
       "2024-04-20": 296
     }
   },
@@ -25,9 +25,9 @@
     "url": "https://api.blex.me/v1/posts/newest",
     "icon": "https://icons.duckduckgo.com/ip3/api.blex.me.ico",
     "slug": "api-https-api-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 1699,
     "timeYear": 925,
     "dailyMinutesDown": {
+      "2025-04-17": 0,
       "2025-01-11": 23
     }
   },
