@@ -4,9 +4,9 @@
     "url": "https://blex.me",
     "icon": "https://icons.duckduckgo.com/ip3/blex.me.ico",
     "slug": "blex-https-blex-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 749,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-28": 15,
       "2025-06-28": 36,
       "2025-04-17": 271
